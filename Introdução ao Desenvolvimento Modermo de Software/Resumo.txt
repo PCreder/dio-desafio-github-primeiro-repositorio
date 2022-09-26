@@ -1,0 +1,27 @@
+	Termos Importantes e seus Significados
+
+- UX Design (User Experience): Profissional que visa melhorar a satisfação do usuário com produto ou serviço melhorando a usabilidade, a acessibilidade e a satisfação da interação com o produto. Envolve pesquisa (Quem é o usuário, qual a idade), protótipos (desenha exemplos), objetivos (entende qual é o objetivo da aplicação para criar da melhora forma possível). 
+
+- UI Design (User Interface): Profissional responsável por criar o que o usuário irá ver. Entende padrões visuais que podem ajudar o usuário na experiência de utilização do software. Focado em cores, tipografia, micro interações e estilos. 
+
+- Front End: Quem desenvolve a aplicação para o cliente. Programa a parte visual de um site ou aplicativo (com o que conseguimos interagir). (Exemplos de tecnologias: HTML, CSS e JavaScript). 
+
+- Programador cria códigos na IDE (Ambiente de Desenvolvimento Integrado) ou em qualquer tipo de arquivo de texto (sem nenhum auxilio para ajudar o desenvolvimento). 
+
+- Framework: E um facilitador. Tem soluções pré-definidas, códigos pré-feitos para reutilizar. Cada framework facilita o uso de uma linguagem especifica (Angular-HTML, CSS e JavaScript. Laravel-PHP. SpringBoot-Java). 
+
+- Back End: Quem desenvolve a aplicação para o servidor. Em boa parte dos casos trabalha fazendo a ponte entre os dados que vem do navegador rumo ao banco de dados e vice-versa, sempre aplicando as devidas regras de negócio, validações e garantias em um ambiente onde o usuário final não tenha acesso e possa manipular algo. (Exemplos de tecnologias: JAVA, PHP e C#). 
+
+- API (Interface de programação de aplicativos): Um intermediário de software que permite que dois aplicativos conversem entre si. 
+
+- Full Stack: Programador que trabalha no front End e no Back End. 
+
+- QA (Quality Assurance): Profissional que cuida da qualidade do software, que testa. Analisa a qualidade do código. Identifica o caminho que o usuário percorre e testa se tudo está funcionando corretamente. 
+
+- Nuvem Pública: Opções de armazenamento de dados disponibilizados via internet.  
+
+- Profissional de Redes: Faz a manutenção física e configuração de hardware. 
+
+- Profissional de Cloud Computing: Responsável pela infraestrutura em nuvem oferecida aos clientes. Mais do que desenhar sistemas ou ambientes de TI, ele escolhe as tecnologias que serão usadas, quais operadores são mais interessantes, como as peças vão ser integradas e no fim, cuida do que foi construído. 
+
+- Mobile: O Back End do desenvolvimento Web pode atender mobile tb. Front End muda pois existe mais de um sistema operacional (linguagens JAVA e KOTLIN-Android/ Linguagem SWIFT-IOs). Existe também o desenvolvimento híbrido atende android e IOs (IONIC, Flutter, React Native), não é indicado criar algumas aplicações com essas linguagens, pois perde performance. 
